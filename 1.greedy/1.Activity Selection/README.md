@@ -1,4 +1,4 @@
-# -1.codecamp
+# Activity Selection Problem: 
 https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1#
 
 https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/submissions/
